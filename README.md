@@ -1,1 +1,0 @@
-Realstruktur-Analyse
