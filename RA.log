@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.3.21)  10 JAN 2020 16:57
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.3.21)  12 JAN 2020 10:35
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -3012,7 +3012,7 @@ sx1095.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfsx1200.pfb></usr/sha
 re/texmf/fonts/type1/public/cm-super/sfsx1440.pfb></usr/share/texmf/fonts/type1
 /public/cm-super/sfsx2074.pfb></usr/share/texmf/fonts/type1/public/cm-super/sft
 i1095.pfb></usr/share/texmf/fonts/type1/public/cm-super/sftt1095.pfb>
-Output written on RA.pdf (22 pages, 7911602 bytes).
+Output written on RA.pdf (22 pages, 7911368 bytes).
 PDF statistics:
  406 PDF objects out of 1000 (max. 8388607)
  335 compressed objects within 4 object streams
